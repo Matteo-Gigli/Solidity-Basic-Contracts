@@ -1,7 +1,7 @@
 //SPDX-License-Identifier:UNLICENSED
 
 // This Contract is the simplest contract we can have.
-// It's based on set a number and call it back
+// It's based on, set a number and call it back
 
 pragma solidity >0.5.0 <0.9.0;
 
