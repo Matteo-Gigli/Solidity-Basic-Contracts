@@ -2,9 +2,9 @@
 
 /* Event Contract
 We are creating a contract and then we want emit an Event.
-We can create an Event by the key-word event and give all the parameter we
+We can create an Event by the key-word event, and give all the parameter we
 want.
-To call an event we can use emit passing the same parmater the event want.
+To call an event we can use emit, passing the same parmater the event want.
 Check the Contract !
 */
 
