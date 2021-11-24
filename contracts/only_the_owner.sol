@@ -1,6 +1,6 @@
 //SPDX-License-Identifier:UNLICENSED
 
-/* This Contract is based on set a number and get it back, and associate the
+/* This Contract is based on, set a number and get it back, and associate the
 address of sender to the number.
 This time we will use a modifier for show the result only for the address
 associate.
