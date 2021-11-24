@@ -1,6 +1,6 @@
 //SPDX-License-Identifier:UNLICENSED
 
-/* This Contract is based on set a number and get it back, but this time,
+/* This Contract is based on, set a number and get it back, but this time,
 we want to associate the address of sender to the number.
 */
 
